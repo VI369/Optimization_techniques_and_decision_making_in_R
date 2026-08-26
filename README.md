@@ -6,5 +6,5 @@ All scripts are self-contained.
 R (>= 4.0 recommended)
 
 ## Packages:
-  install.packages("ggplot2")
-  install.packages("lpSolve")
+install.packages("ggplot2")
+install.packages("lpSolve")
